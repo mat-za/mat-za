@@ -1,7 +1,7 @@
 Hi 👋 My name is Matheus
 ========================
 
-I've been learning to code for some time, but have really found a passion for the data and AI related fields.
+I've been programming for some time, but have really found a passion for the data and AI related fields.
 
 * 🌍  I'm based in Brasil
 
